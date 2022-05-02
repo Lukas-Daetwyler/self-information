@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "package:self-information",
+    "appService.deploySubpath": "target\\self-information-0.0.1-SNAPSHOT.jar",
+    "appService.defaultWebAppToDeploy": "/subscriptions/31d8a257-6e49-4c3e-9d44-95793bf3a0de/resourceGroups/myResourceGroup/providers/Microsoft.Web/sites/CloudSol2022SelfInformation"
+}
